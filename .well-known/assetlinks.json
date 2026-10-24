@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.darlon10.financas",
+        "sha256_cert_fingerprints": ["32:A9:E6:F6:E6:4C:8A:9A:6C:E3:37:33:F7:39:EA:91:94:93:D8:E0:CB:44:C5:4D:38:79:F6:D1:44:F6:2D:E4"]
+      }
+    }]
